@@ -1,0 +1,12 @@
+ID,Admit Time,Symptoms,Diagnosis,Vitals,Hospital,Sync?,Notes
+23,2025-02-23 13:55,chest pain ,"pneumonia, hypertension","39°C, 140/90, ",mercy hospital,Y,test pending
+15,2025-02-23 13:56,"cough, running nose, fever","aurt, bacteria infection","38.6°C, 149/90, ",jinhga,Y,results complete
+432,2025-02-23 13:58,cough,common cold,"38.6°C, 149/90, ",afyaaid hospita,Y,results soon
+15,2025-02-23 13:59,"chest pain , cough","pneumonia, hypertension, mi","38.6°C, 149/90, ",mercy hospital,Y,pending ecg results
+23,2025-02-23 14:00,cough,common cold,"38.6°C, 149/90, ",afyaaid hospita,N,results complete
+15,2025-02-23 14:01,"cough, running nose, fever",common cold,"39°C, 140/90, ",mercy hospital,Y,results soon
+15,2025-02-23 14:03,"chest pain , fever","common cold, pneumonia",39°C ,afyaaid hospita,Y,results soon
+15,2025-02-23 14:04,"cough, running nose, fever","aurt, bacteria infection",38.6°C ,mercy hospital,Y,results complete
+15,2025-02-23 14:23,"chest pain , cough","aurt, bacteria infection",39°C ,afyaaid hospita,Y,results soon
+23,2025-02-23 14:24,"cough, running nose, fever","common cold, pneumonia","38.6°C, 149/90, ",mercy hospital,Y,test pending
+432,2025-02-23 14:26,cough,"aurt, bacteria infection",38.6°C ,afyaaid hospita,Y,results complete
